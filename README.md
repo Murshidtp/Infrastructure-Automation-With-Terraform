@@ -22,13 +22,13 @@ Before you begin, ensure you have the following prerequisites:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Murshidtp/Infrastructure-Automation-With-Terraform.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd infrastructure-automation-terraform
+    cd Infrastructure-Automation-With-Terraform
     ```
     Before proceeding, it's essential to update the AWS access key and secret key in the main.tf file with your own credentials.
 
