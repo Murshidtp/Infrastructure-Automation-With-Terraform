@@ -1,4 +1,5 @@
-Infrastructure Automation With Terraform
+#Infrastructure Automation With Terraform
+
 Overview
 
 This project aims to automate the deployment of infrastructure on AWS using Terraform. The infrastructure includes a Virtual Private Cloud (VPC) and EC2 instances for hosting a web application. Additionally, a Terraform script has been developed to define and deploy these resources.
